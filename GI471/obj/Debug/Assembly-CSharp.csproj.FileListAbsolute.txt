@@ -1,0 +1,2 @@
+D:\Git\1610700914_GI471\GI471\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Git\1610700914_GI471\GI471\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
